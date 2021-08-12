@@ -1,0 +1,87 @@
+2021-08-12 09:32:04,209 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 09:32:04,227 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:32:04,227 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:32:04,227 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 09:32:04,227 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:32:12,359 INFO  [Log] Opening Browser 
+2021-08-12 09:32:41,154 INFO  [Log] Chrome browser started 
+2021-08-12 09:33:47,774 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 09:33:47,776 INFO  [Log] X 
+2021-08-12 09:33:47,777 INFO  [Log] X 
+2021-08-12 09:34:38,119 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 09:34:39,052 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:34:39,052 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:34:39,052 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 09:34:39,052 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:34:39,053 INFO  [Log] Opening Browser 
+2021-08-12 09:34:41,949 INFO  [Log] Chrome browser started 
+2021-08-12 09:34:42,113 INFO  [Log] Navigating to URL 
+2021-08-12 09:34:49,863 INFO  [Log] Entering the text in txtbx_UserName 
+2021-08-12 09:34:50,182 INFO  [Log] Entering the text in txtbx_Password 
+2021-08-12 09:34:50,562 INFO  [Log] Clicking on Webelement btn_LogIn 
+2021-08-12 09:34:50,790 INFO  [Log] Wait for 2 seconds 
+2021-08-12 09:34:52,888 INFO  [Log] Clicking on Webelement btn_LogOut 
+2021-08-12 09:34:53,095 INFO  [Log] Closing the browser 
+2021-08-12 09:34:54,053 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 09:34:54,053 INFO  [Log] X 
+2021-08-12 09:34:54,053 INFO  [Log] X 
+2021-08-12 09:34:54,053 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:34:54,054 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:35:30,224 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 09:35:31,090 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:35:31,090 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:35:31,090 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 09:35:31,090 INFO  [Log] **************************************************************************************** 
+2021-08-12 09:35:31,091 INFO  [Log] Opening Browser 
+2021-08-12 09:35:33,752 INFO  [Log] Chrome browser started 
+2021-08-12 09:35:33,852 INFO  [Log] Navigating to URL 
+2021-08-12 09:35:41,270 INFO  [Log] Entering the text in txtbx_UserName 
+2021-08-12 09:35:41,541 INFO  [Log] Entering the text in txtbx_Password 
+2021-08-12 09:35:42,033 INFO  [Log] Clicking on Webelement btn_LogIn 
+2021-08-12 09:35:42,272 INFO  [Log] Wait for 2 seconds 
+2021-08-12 09:35:44,387 INFO  [Log] Clicking on Webelement btn_LogOut 
+2021-08-12 09:35:44,794 INFO  [Log] Closing the browser 
+2021-08-12 09:35:45,944 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 09:35:45,944 INFO  [Log] X 
+2021-08-12 09:35:45,944 INFO  [Log] X 
+2021-08-12 09:35:45,944 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 09:35:45,944 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:11:46,105 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 10:11:46,117 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:11:46,117 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:11:46,117 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 10:11:46,117 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:11:46,119 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 10:11:46,119 INFO  [Log] X 
+2021-08-12 10:11:46,119 INFO  [Log] X 
+2021-08-12 10:11:46,120 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:11:46,120 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:12:03,541 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 10:12:03,552 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:12:03,552 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:12:03,552 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 10:12:03,552 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:12:03,554 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 10:12:03,554 INFO  [Log] X 
+2021-08-12 10:12:03,554 INFO  [Log] X 
+2021-08-12 10:12:03,554 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:12:03,554 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:13:12,034 INFO  [Log] Mark NO RUN for each test step 
+2021-08-12 10:13:12,777 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:13:12,777 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:13:12,777 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-08-12 10:13:12,777 INFO  [Log] **************************************************************************************** 
+2021-08-12 10:13:12,778 INFO  [Log] Opening Browser 
+2021-08-12 10:13:15,330 INFO  [Log] Chrome browser started 
+2021-08-12 10:13:15,430 INFO  [Log] Navigating to URL 
+2021-08-12 10:13:25,148 INFO  [Log] Entering the text in txtbx_UserName 
+2021-08-12 10:13:25,589 INFO  [Log] Entering the text in txtbx_Password 
+2021-08-12 10:13:25,939 INFO  [Log] Clicking on Webelement btn_LogIn 
+2021-08-12 10:13:26,384 INFO  [Log] Wait for 2 seconds 
+2021-08-12 10:13:28,468 INFO  [Log] Clicking on Webelement btn_LogOut 
+2021-08-12 10:13:28,758 INFO  [Log] Closing the browser 
+2021-08-12 10:13:29,872 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   -END-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2021-08-12 10:13:29,872 INFO  [Log] X 
+2021-08-12 10:13:29,872 INFO  [Log] X 
+2021-08-12 10:13:29,872 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 
+2021-08-12 10:13:29,872 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null 

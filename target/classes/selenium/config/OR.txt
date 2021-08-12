@@ -1,0 +1,7 @@
+# Home Page Objects
+btn_LogOut=//*[@id='userName-value']/following-sibling::button[@id='submit']
+
+# Login Page Object
+txtbx_UserName=.//*[@id='userName']
+txtbx_Password=.//*[@id='password']
+btn_LogIn=.//*[@id='login']
